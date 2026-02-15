@@ -1,0 +1,4 @@
+personal/*
+!personal/.gitkeep
+work/*
+!work/.gitkeep
